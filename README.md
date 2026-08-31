@@ -1,4 +1,29 @@
-# The ATLAS side panel for Chrome
+# GeoGuessr Cheat Extension for Chrome: the ATLAS Side Panel
+
+<p align="center">
+  <img src="images/logo.png" alt="ATLAS GeoGuessr cheat extension logo" width="110" />
+</p>
+
+<p align="center">
+  <b>A cheat extension that answers the round beside the game: country, region, coordinates, and the pin dropped for you.</b><br/>
+  Seven rounds free, no account and no download. Chrome, Edge, Brave, Opera and Vivaldi.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/atlas-geoguessr-chrome-extension/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr cheat extension" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-chrome-extension?style=for-the-badge&logo=github&color=FFD700"></a>
+  <a href="https://chromewebstore.google.com/detail/geoguesser-cheats-geogues/mggpkondmigmgbgafalghhkagkldinkj"><img alt="Install the extension from the Chrome Web Store" src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for extension support" src="https://img.shields.io/badge/Discord-Get%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <img alt="Seven free rounds without an account" src="https://img.shields.io/badge/free-7%20rounds-2ecc71?style=for-the-badge">
+  <img alt="Hands free mode submits for you" src="https://img.shields.io/badge/hands%20free-yes-FF6600?style=for-the-badge">
+  <img alt="Also runs on macOS" src="https://img.shields.io/badge/also-macOS-999999?style=for-the-badge&logo=apple&logoColor=white">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/atlas-geoguessr-firefox-addon">Firefox version</a> &middot;
+  <a href="https://geoguessrcheats.com/plans">Plans</a> &middot;
+  <a href="https://geoguessrcheats.com/reviews">Reviews</a>
+</p>
 
 Seven rounds free. No account, no download, nothing installed on your machine
 beyond an extension you can remove in two clicks. That is deliberately the
