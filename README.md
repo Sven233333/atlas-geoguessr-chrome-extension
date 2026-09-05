@@ -13,6 +13,7 @@
   <a href="https://github.com/Sven233333/atlas-geoguessr-chrome-extension/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr cheat extension" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-chrome-extension?style=for-the-badge&logo=github&color=FFD700"></a>
   <a href="https://chromewebstore.google.com/detail/geoguesser-cheats-geogues/mggpkondmigmgbgafalghhkagkldinkj"><img alt="Install the extension from the Chrome Web Store" src="https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for extension support" src="https://img.shields.io/badge/Discord-Get%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtu.be/K63r-8UcvPc"><img alt="Watch ATLAS play a GeoGuessr round on YouTube" src="https://img.shields.io/badge/Watch-on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Seven free rounds without an account" src="https://img.shields.io/badge/free-7%20rounds-2ecc71?style=for-the-badge">
   <img alt="Hands free mode submits for you" src="https://img.shields.io/badge/hands%20free-yes-FF6600?style=for-the-badge">
   <img alt="Also runs on macOS" src="https://img.shields.io/badge/also-macOS-999999?style=for-the-badge&logo=apple&logoColor=white">
