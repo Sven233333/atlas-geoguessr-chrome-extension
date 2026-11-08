@@ -35,6 +35,12 @@ before anyone asks you for money.
 
 Install: **[Chrome Web Store](https://chromewebstore.google.com/detail/geoguesser-cheats-geogues/mggpkondmigmgbgafalghhkagkldinkj)**
 
+## Guides on the site
+
+- [GeoGuessr cheat extension for Chrome, Edge and Firefox](https://geoguessrcheats.com/geoguessr-extension)
+- [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
+- [WorldGuessr cheat](https://geoguessrcheats.com/worldguessr-cheat)
+
 ---
 
 ## The seven rounds
