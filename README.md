@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/geoguessr-cheats"><b>All platforms</b></a> &middot;
   <a href="https://github.com/Sven233333/atlas-geoguessr-firefox-addon">Firefox version</a> &middot;
   <a href="https://geoguessrcheats.com/plans">Plans</a> &middot;
   <a href="https://geoguessrcheats.com/reviews">Reviews</a>
@@ -50,7 +50,9 @@ it, and it answers seven times before it stops. Nothing is charged, nothing is
 registered, and if the answers are not good enough for you, that is the end of it.
 
 After seven, a key unlocks the rest. The same key works in the Windows app and on
-your phone, so nobody pays twice for the same thing.
+your phone, so nobody pays twice for the same thing. If you are not ready for a
+key yet, the panel offers extra free rounds through our Discord when the seven
+are gone.
 
 ## What the panel puts in front of you
 
@@ -64,10 +66,25 @@ your phone, so nobody pays twice for the same thing.
 It sits beside the game rather than on top of it. The round stays where it is and
 nothing is drawn over the street view.
 
+## Version 1.7.1
+
+The listing carries 1.7.1. The panel was redrawn in 1.7: calmer, in light and
+dark, with the country as the headline and a map that zooms in on it. Around
+that, a few additions:
+
+- With Auto Place off, an orange dot marks the answer on GeoGuessr's own map. It
+  can be switched off in Settings.
+- A Profile tab with your GeoGuessr level, ranked rating, duels and game stats,
+  read from your own session in this browser and shown only to you.
+- Home lists today's rounds and the main switches, and History goes game by
+  game, round by round.
+- When the free rounds run out, one screen shows both ways on: more free rounds,
+  or unlimited rounds with card or PayPal in one click.
+
 ## Hands free
 
 Turn it on and the extension stops waiting for you. It places the guess, presses
-submit, and moves to the next round. You are still in the browser and still in the
+submit, and moves to the next round. This switch needs a key. You are still in the browser and still in the
 game, but you are no longer clicking.
 
 For playing whole sessions while you do something else entirely, that is the
@@ -77,7 +94,8 @@ Windows app rather than this:
 ## Which browsers this covers
 
 Chrome itself, and the browsers built on the same engine: Edge, Brave, Opera,
-Vivaldi. It also runs on macOS in Chrome, with no separate purchase, which is
+Vivaldi. Edge users can also take it from
+[Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/chlfjoingmolckhnekinjeodlgaopjjd). It also runs on macOS in Chrome, with no separate purchase, which is
 written up in
 [atlas-geoguessr-macos](https://github.com/Sven233333/atlas-geoguessr-macos).
 
@@ -123,7 +141,7 @@ and [atlas-geoguessr-android](https://github.com/Sven233333/atlas-geoguessr-andr
 **Where do I see all platforms at once?**
 [geoguessrcheats.com/platforms](https://geoguessrcheats.com/platforms), or the
 overview repository
-[Atlas-geoguessr-bot](https://github.com/Sven233333/Atlas-geoguessr-bot).
+[geoguessr-cheats](https://github.com/Sven233333/geoguessr-cheats).
 
 ## Disclaimer
 
